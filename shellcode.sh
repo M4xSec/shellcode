@@ -2,7 +2,6 @@
 
 trap 'printf "\n";stop' 2
 server_tcp="3.17.202.129" 
-cat banner.txt
 
 banner() {
 
