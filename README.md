@@ -12,12 +12,12 @@
 For Advance_reg FUD backdoor Contact ME (for key only, Zip is already attached) 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/khacker1024/shellcode
+* git clone https://github.com/predator0x300/shellcode
 * cd shellcode/
 * bash shellcode.sh
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/khacker1024/shellcode
+* git clone https://github.com/predator0x300/shellcode
 * cd shellcode/
 * ./shellcode.sh
 
@@ -36,7 +36,7 @@ For Advance_reg FUD backdoor Contact ME (for key only, Zip is already attached)
 
 # Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : kamaldeepsingh9821@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : predator0x300@gmail.com
 
 # DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
