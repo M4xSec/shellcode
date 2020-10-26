@@ -14,7 +14,7 @@ printf "\e[1;91m   //  _ \ \              /____  >___|  /\___  >____/____/\e[93m
 printf "\e[1;91m  | \     )|                   \/     \/     \/         /__\e[93m___/   \/           \/    \/ \e[0m \n"
 printf "\e[1;91m  /_ >  <_/ \_ reg_backdoor  \e[0m \n"
 printf "\e[1;91m  \__/---\__/     _windows\e[0m \n"
-printf "                                    \e[1;91m---------->> Coded By Kamaldeep Singh <<----------\e[0m \n"
+printf "                                    \e[1;91m---------->> Coded By predator0x300 <<----------\e[0m \n"
 printf "                                         \e[1;91m{Github: https://github.com/khacker1024}\e[93m\n"
 printf "\n"
 
@@ -24,7 +24,7 @@ printf "\e[1;91m+----------------------------------------------+\e[0m \n"
 printf "\e[1;91m|             Advance reg_backdoor$            |\e[0m \n"
 printf "\e[1;91m+----------------------------------------------+\e[0m \n"
 printf "\e[1;91m| For FUD REG_Backdoor along with Dropper Key  |\e[0m \n"
-printf "\e[1;91m|    Contact: Kamaldeep Singh ---------<<<     |\e[0m \n"
+printf "\e[1;91m|    Contact: predator0x300 ---------<<<     |\e[0m \n"
 printf "\e[1;91m+----------------------------------------------+\e[0m \n"
 
 
